@@ -9,7 +9,7 @@
 <body>
     <section class="text-center">
         <h1>Formulaire de connexion</h1>
-        <form id="newForm" method="post" action="regexTest.php">
+        <form id="newForm" method="post" action="index.php">
         <p>Nom <input type="text" name="lastName" /></p>
         <p>Prénom <input type="text" name="firstName" /></p>
         <p>Mail <input type="text" name="eMail" /></p>
